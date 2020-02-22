@@ -4,3 +4,4 @@ rawdata/joypixels-5.0.1
 existing_repos/
 .ipynb_checkpoints/
 utils/glove.6B.300d.txt
+dataset/description/detailed/*
