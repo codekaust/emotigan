@@ -5,3 +5,5 @@ existing_repos/
 .ipynb_checkpoints/
 utils/
 test.ipynb
+images/
+saved_model/
