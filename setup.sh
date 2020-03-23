@@ -12,4 +12,3 @@ cd ..
 mkdir -p images/snapshot
 mkdir saved_model/
 mkdir -p dataset/edited
-mkdir -p dataset/original
