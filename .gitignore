@@ -1,5 +1,5 @@
-dataset/original/*
-dataset/edited/*
+dataset/
+dataset/edited/
 rawdata/joypixels-5.0.1
 existing_repos/
 .ipynb_checkpoints/
