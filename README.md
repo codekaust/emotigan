@@ -10,3 +10,6 @@ pip install -r requirements.txt
 ```
 
 For using `joypixels-5.0.1-free`: https://drive.google.com/file/d/1FLbdHEENrv65qyR5dm0lFCoMaws7Mym_/view?usp=sharing
+
+# Train
+Run MODEL.ipynb.
